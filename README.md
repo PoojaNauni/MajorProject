@@ -1,5 +1,4 @@
-# MajorProject
-# code of the project
+# FakeJobPostingDetection
 
 
 import re
